@@ -7,13 +7,13 @@
                 <h3 class="text-l font-semibold text-gray-700 mb-6">Founding Members</h3>
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(0)">
-                        <img src="../assets/teams/krunal.jpg" alt="Krunal Sarode" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Krunal Sarode" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Krunal Sarode</h4>
                         <p class="text-gray-600 mb-2">Founder and Managing Partner</p>
                         <p class="text-center text-sm text-gray-500">Litigation, Corporate Advisory and Strategic Legal Counsel</p>
                     </div>
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(1)">
-                        <img src="../assets/teams/vineha.jpg" alt="Vineha Wadgaonkar" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Vineha Wadgaonkar" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Vineha Wadgaonkar</h4>
                         <p class="text-gray-600 mb-2">Co-Founder and Partner</p>
                         <p class="text-center text-sm text-gray-500">Litigation Drafting, Research, Contract Vetting, and Legal Training</p>
@@ -26,13 +26,13 @@
                 <h3 class="text-l font-semibold text-gray-700 mb-6">Senior Partners</h3>
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(2)">
-                        <img src="../assets/teams/Prasad.jpg" alt="Prasad Rakh" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Prasad Rakh" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Prasad Jayat Rakh</h4>
                         <p class="text-gray-600 mb-2">Senior Partner</p>
                         <p class="text-center text-sm text-gray-500"> Research and Criminal Law</p>
                     </div>
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(3)">
-                        <img src="../assets/teams/vineha.jpg" alt="Atish Kaningdhwaj" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Atish Kaningdhwaj" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Atish Kaningdhwaj</h4>
                         <p class="text-gray-600 mb-2">Senior Partner</p>
                         <p class="text-center text-sm text-gray-500">Administration and Practice Development</p>
@@ -45,13 +45,13 @@
                 <h3 class="text-l font-semibold text-gray-700 mb-6">Senior Associates</h3>
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(4)">
-                        <img src="../assets/teams/Prasad.jpg" alt="Srikant Bansode" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Srikant Bansode" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Srikant Bansode</h4>
                         <p class="text-gray-600 mb-2">Senior Associate</p>
                         <p class="text-center text-sm text-gray-500">Civil Litigation</p>
                     </div>
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(5)">
-                        <img src="../assets/teams/vineha.jpg" alt="Amit Icham" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Amit Icham" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Amit Icham</h4>
                         <p class="text-gray-600 mb-2">Senior Associate</p>
                         <p class="text-center text-sm text-gray-500">Bombay High Court and Criminal Law Matters</p>
@@ -64,25 +64,25 @@
                 <h3 class="text-l font-semibold text-gray-700 mb-6">Associates</h3>
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(6)">
-                        <img src="../assets/teams/Prasad.jpg" alt="Shubham Lokare" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Shubham Lokare" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Shubham Lokare</h4>
                         <p class="text-gray-600 mb-2">Associate</p>
                         <p class="text-center text-sm text-gray-500">data not available</p>
                     </div>
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(7)">
-                        <img src="../assets/teams/vineha.jpg" alt="Kiran Dahitonde" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Kiran Dahitonde" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Kiran Dahitonde</h4>
                         <p class="text-gray-600 mb-2">Associate for Ahmednagar Jurisdiction</p>
                         <p class="text-center text-sm text-gray-500">data not available</p>
                     </div>
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(8)">
-                        <img src="../assets/teams/Prasad.jpg" alt="Shekhar Gorde" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Shekhar Gorde" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Shekhar Gorde</h4>
                         <p class="text-gray-600 mb-2">Associate</p>
                         <p class="text-center text-sm text-gray-500">Litigation and Advisory</p>
                     </div>
                     <div class="bg-white rounded-lg shadow p-6 flex flex-col items-center transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-xl hover:border-amber-500" @click="openModal(9)">
-                        <img src="../assets/teams/vineha.jpg" alt="Tanaya Deokate" class="w-full h-full rounded-sm mb-4 object-cover">
+                        <img src="" alt="Tanaya Deokate" class="w-full h-full rounded-sm mb-4 object-cover">
                         <h4 class="text-lg font-semibold text-gray-800">Adv. Tanaya Deokate</h4>
                         <p class="text-gray-600 mb-2">Junior Associate</p>
                         <p class="text-center text-sm text-gray-500">data not available</p>
